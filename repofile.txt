@@ -1,0 +1,3 @@
+this is a just a training to pratice repository. first we use git clone repo
+url command to pull from remote and now we are writing code in a file from 
+desktop and we will push it back to remote
